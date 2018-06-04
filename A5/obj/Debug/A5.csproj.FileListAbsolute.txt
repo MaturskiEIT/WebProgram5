@@ -1,0 +1,14 @@
+c:\ZadatakA5\A5\A5\bin\A5.dll
+c:\ZadatakA5\A5\A5\bin\A5.pdb
+c:\ZadatakA5\A5\A5\obj\Debug\ResolveAssemblyReference.cache
+c:\ZadatakA5\A5\A5\obj\Debug\A5.dll
+c:\ZadatakA5\A5\A5\obj\Debug\A5.pdb
+C:\Users\Filip\Desktop\ZadatakA5\A5\A5\bin\A5.dll
+C:\Users\Filip\Desktop\ZadatakA5\A5\A5\bin\A5.pdb
+C:\Users\Filip\Desktop\ZadatakA5\A5\A5\obj\Debug\A5.dll
+C:\Users\Filip\Desktop\ZadatakA5\A5\A5\obj\Debug\A5.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\A5\A5\bin\A5.dll
+C:\Users\Filip\Desktop\Zadaci za maturu\A5\A5\bin\A5.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\A5\A5\obj\Debug\A5.dll
+C:\Users\Filip\Desktop\Zadaci za maturu\A5\A5\obj\Debug\A5.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\A5\A5\obj\Debug\A5.csprojResolveAssemblyReference.cache
